@@ -1,0 +1,9 @@
+com\spring\datajpa\entity\Motocicleta.class
+com\spring\datajpa\repository\MotocicletaRepository.class
+com\spring\datajpa\controller\MotocicletaController.class
+com\spring\datajpa\entity\Productos.class
+com\spring\datajpa\service\MotocicletaService.class
+com\spring\datajpa\service\ProductosService.class
+com\spring\datajpa\DataJpaApplication.class
+com\spring\datajpa\repository\ProductosRepository.class
+com\spring\datajpa\controller\ProductosController.class
